@@ -57,7 +57,6 @@ namespace Task1.ConsoleCoordinates
             foreach (var coordinate in _coordinates)
             {
                 Console.WriteLine(coordinate);
-                int xxxxx = 0;
             }
         }
     }
