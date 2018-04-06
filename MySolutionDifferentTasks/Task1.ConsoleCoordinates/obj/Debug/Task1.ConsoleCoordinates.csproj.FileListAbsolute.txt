@@ -1,0 +1,17 @@
+C:\Users\Aleh_Dalzhenka\Source\Repos\TestTasks2\Task1.ConsoleCoordinates\Task1.ConsoleCoordinates\bin\Debug\Task1.ConsoleCoordinates.exe.config
+C:\Users\Aleh_Dalzhenka\Source\Repos\TestTasks2\Task1.ConsoleCoordinates\Task1.ConsoleCoordinates\bin\Debug\Task1.ConsoleCoordinates.exe
+C:\Users\Aleh_Dalzhenka\Source\Repos\TestTasks2\Task1.ConsoleCoordinates\Task1.ConsoleCoordinates\bin\Debug\Task1.ConsoleCoordinates.pdb
+C:\Users\Aleh_Dalzhenka\Source\Repos\TestTasks2\Task1.ConsoleCoordinates\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\Aleh_Dalzhenka\Source\Repos\TestTasks2\Task1.ConsoleCoordinates\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\Aleh_Dalzhenka\Source\Repos\TestTasks2\Task1.ConsoleCoordinates\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.exe
+C:\Users\Aleh_Dalzhenka\Source\Repos\TestTasks2\Task1.ConsoleCoordinates\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.pdb
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\bin\Debug\Task1.ConsoleCoordinates.exe.config
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\bin\Debug\Task1.ConsoleCoordinates.exe
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\bin\Debug\Task1.ConsoleCoordinates.pdb
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\bin\Debug\Task1.BLL.dll
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\bin\Debug\Task1.BLL.pdb
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.csprojResolveAssemblyReference.cache
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.csproj.CoreCompileInputs.cache
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.csproj.CopyComplete
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.exe
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.ConsoleCoordinates\obj\Debug\Task1.ConsoleCoordinates.pdb

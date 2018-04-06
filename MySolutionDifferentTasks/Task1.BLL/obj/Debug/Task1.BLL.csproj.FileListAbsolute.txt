@@ -1,0 +1,6 @@
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.BLL\bin\Debug\Task1.BLL.dll
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.BLL\bin\Debug\Task1.BLL.pdb
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.BLL\obj\Debug\Task1.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.BLL\obj\Debug\Task1.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.BLL\obj\Debug\Task1.BLL.dll
+C:\Users\Aleh_Dalzhenka\source\repos\TestTasks2\MySolutionDifferentTasks\Task1.BLL\obj\Debug\Task1.BLL.pdb
