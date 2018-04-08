@@ -12,9 +12,11 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Task2.Wpf.Models;
 
 namespace Task2.Wpf
 {
+
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
@@ -23,6 +25,8 @@ namespace Task2.Wpf
         public MainWindow()
         {
             InitializeComponent();
+
+            DataContext = new ApplicationViewModel();
         }
     }
 }
